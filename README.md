@@ -1,5 +1,5 @@
 # About Me:
-Hi 👋 , I'm Vinay Asati  <br>🎓 B.Tech CSE student at SATI Vidisha (M.P.)  <br>💻 Full Stack Web Developer (MERN Stack)  <br>🧠 Problem Solver | LeetCode Enthusiast  <br>🚀 Passionate about building real-world web applications
+Hi 👋 , I'm Vinay Asati  <br>🎓 B.Tech CSE student at SATI Vidisha (M.P.)  <br>💻 Full Stack Web Developer (MERN Stack)  <br>🧠 Problem Solver | LeetCode Enthusiast (profile : https://leetcode.com/u/Vinay1925/ )  <br>🚀 Passionate about building real-world web applications
 
 
 ## 🌐 Socials:
